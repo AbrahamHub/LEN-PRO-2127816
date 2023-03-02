@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+    display: none;
+}
+.card-page{
+    position: absolute;
+    background-color: hsl(0deg, 100%, 50%);
+    top: 30px;
+    right: 0;
+    padding: 30px;
+    border-radius: 99px 0 0 99px ;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
