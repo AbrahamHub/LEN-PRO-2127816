@@ -12,3 +12,8 @@
     font-weight: 500;
     font-size: 30px;
 }
+.nav-footer{
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
