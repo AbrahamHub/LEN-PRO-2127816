@@ -1,10 +1,10 @@
-package src;
+package src.clase;
 
 import javax.swing.JOptionPane;
 
 public class Clase1 {
     public static void main(String[] args) {
-        System.out.println(" Hola Mundo!");
+        System.out.println("Hola Mundo!");
         JOptionPane.showMessageDialog(null,"Hola");
     }
 }
